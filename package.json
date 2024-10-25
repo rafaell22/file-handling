@@ -1,0 +1,11 @@
+{
+  "name": "file-handling",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["file"],
+  "author": "rafaell22",
+  "license": "MIT"
+}
